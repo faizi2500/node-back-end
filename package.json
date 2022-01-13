@@ -1,0 +1,23 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizi2500/node-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizi2500/node-back-end/issues"
+  },
+  "homepage": "https://github.com/faizi2500/node-back-end#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
